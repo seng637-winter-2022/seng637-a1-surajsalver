@@ -16,10 +16,11 @@
 **Table of Contents**
 - Introduction
 - [Link of demo video](https://drive.google.com/file/d/1HwvsgE3w5fpok701BXBJm-5mrpl6lD3h/view?usp=sharing)
+- What did we know about exploratory and manual testing before this lab
 - High-level description of the exploratory testing plan
 - Comparison of exploratory and manual functional testing
 - Notes and discussion of the peer reviews of defect reports
-- How the pair testing was managed and team work/effort was divided
+- How was the teamwork and any lessons learned from your teamwork in this lab?
 - Difficulties encountered, challenges overcome, and lessons learned
 - Comments/feedback on the lab and lab document itself
 
@@ -165,10 +166,10 @@ and there were a few receipt issues in this stage as well.
 
 These are a few observations from our team and the whole data related to the bugs can be found in the report linked with the document.  
 
-# Any lessons learned from your teamwork in this lab? 
+# How was the teamwork and any lessons learned from your teamwork in this lab? 
 
 We had different perspectives about teamwork but together we believe that successful teamwork is more about combining common sense
-with extraordinary levels of dedication and commitment than it is about acquiring complex, complicated ideas.   We altogether 
+with extraordinary levels of dedication and commitment than it is about acquiring complex, complicated ideas. We altogether 
 overcame the natural tendency that make teamwork so difficult by accepting mutual ideas and perspectives. Meeting together and communicating 
 with all the group members rather than starting to work alone is an essential part of teamwork. On each task that we work on, we write 
 a comment, share our opinions, make things clear to everyone and stand on the same ground with great backing results which makes 
