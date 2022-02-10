@@ -1,4 +1,4 @@
-![](media/UofClogo.png.png)
+![](media/UofClogo.png)
 
 >   **ASSIGNMENT -1**
 
