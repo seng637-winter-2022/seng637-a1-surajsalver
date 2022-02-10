@@ -182,17 +182,17 @@ teamwork in the process of doing hands-on testing sessions.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-To generalize, we all know that any team works tend to have a lot of difficulties in the initial stages in regards to decision making, 
-planning, and developments and things start to settle and sort out in the process and as a team, we settle on common ground and according 
+To generalize, we all know that any team work tend to have a lot of difficulties in the initial stages in regards to decision making, 
+planning, and developments. Later the things start to settle and sort out in the process and as a team we settled on common grounds. According 
 to our perspective the sooner we develop the area we tend to make a better chance in productive work results as from this point of time 
-the advantages of teamwork tend to show up. To give an insight about our teamwork and team management. We had long conversations about 
+the advantages of teamwork tend to show up. To give an insight about our teamwork and team management, we had long conversations about 
 the subject and how to get started with the testing of the software provided. At this point, every one of us in the group had different 
 perspectives on how to start the work (Exploratory testing). We had full-fledged discussions of each other ideas of approach and we had 
-marked down each other's plans and compared the pathway of process flow with this comparison, we all were convinced by a common plan 
+marked down each other's plans and compared the pathways of process flow, with this comparison we all were convinced by a common plan 
 with some minor advancements. With this everyone in the team decided on how to progress with the testing. It was tough to complete the 
 work as a group owing to diverse opinions on the testing. However, these different suggestions assisted us in getting started on the work. 
 The group was divided into two divisions. The objective was to start with exploratory testing, in which both the groups would simultaneously 
-run the software on the path we decided on, and at last, the results would be merged and compared.  
+running the software on the path we decided on, and at last the results were compared and merged.  
 
 In the second phase of the project, we tried running the manual test cases on the software in a group collaborating environment using the
 support document. At a time one person was testing the software while another was pointing out the issues, making the procedure simple 
