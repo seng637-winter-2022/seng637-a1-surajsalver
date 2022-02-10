@@ -67,7 +67,7 @@ for version 1.1 as well and the details about the whole bugs in both versions ar
 # What did we know about exploratory and manual testing before this lab
  
 To talk about our prior information on exploratory and manual functional testing, we considered testing has
- a unique and one-directional approach in which the software gets tested accordingly with some predefined test cases.
+a unique and one-directional approach in which the software gets tested accordingly with some predefined test cases.
 And also presumed that there is no particular testers plan for each of the software test flows which would give 
 freedom to the person who is testing it, to get more and more bugs in a non-manual format. The overall perspective
 of the testing has changed in our opinion with this lab.  
@@ -77,15 +77,15 @@ to this testing methodology, one set of the team considered the exploratory test
 random method of testing the software and the other set considered it to be as a core testing of the software with unknown 
 process flow. But the common point was that all of us didn't consider having a properly planned process flow design 
 to approach the software under test. But in the end, the team has landed on a common understanding with some great 
-teamwork and information exchange capabilities and the clear-cut hands-on explanation about the process had greatly 
+teamwork, information exchange capabilities and clear-cut hands-on information about the process which greatly 
 helped us to understand the concept thoroughly. 
 
 Coming to manual testing, the information about this for all of us was more or less close to the actual process
 of what manual testing is all about. We thought it was a process of testing the software with a set of guidelines and 
-guidelines support document of the software and we follow it accordingly to fetch maximum bugs out of the test cases. 
-But altogether we had an idea of what we were about to do practically but the actualness of the prior knowledge had 
-varied a bit from the information provided and a quick skim and understanding of the document has given us a clear 
-idea about both the procedures without any difficulties.
+guidelines support document of the software which we followed accordingly to fetch maximum bugs out of the test cases. 
+But altogether we had an idea of what we were about to do practically but the actualness of the prior knowledge we had 
+varied a bit from the information provided. A quick skim and understanding of the document has given us a clear idea 
+about both the procedures without any difficulties.
 
 # High-level description of the exploratory testing plan
 
@@ -98,14 +98,13 @@ we expected the problems to occur. With the brief information report given for t
 interpret where the errors can be found and this also helped us to formulate the flow from the options like withdrawal, 
 deposit, and transfer options. Being said that the design development was initially difficult for us to team up together and 
 form a common test plan due to a lot of ideas on how we can approach the issue, but it was resolved with the common agreement 
-on the plan mentioned. To start, in stage one we first decided to start the process by checking the ATM starting stage in the 
-first place to find any initial errors in the initialization stage, and then later on once we collect the necessary bugs and 
-report of this stage. Coming to stage two, we moved to the login phase of the system by using cards 1 and 2 as mentioned in 
-process flow and collected the bug report out of it, and parallelly we also checked the logout function in the process from 
-the initial stages. 
+on the plan mentioned. To start, in stage one we first decided to start the process by checking the ATM starting stage to find 
+any initial errors in the initialization stage, and then later on once we collect the necessary bugs and noted down the bugs of this 
+stage we moved to the second stage, which is the login phase of the system by using cards 1 and 2 as mentioned in process flow and 
+collected the bug report out of it accordingly. And parallelly we also checked the logout function in the process.
 
-Next in stage three, once we log in we tried to go around and check the options available in the session 
-start for the user, this also deals with the test of the display as well, and the report for the following stage of testing 
+Next in stage three, once we log in we tried to go around and check the options available in the initial start session 
+for the user, this also deals with the test of the display, and the report for the following stage of testing 
 is also noted. Coming to see the actual working functionalities of the ATM in stage four, we started to test the balance 
 inquiry option for both the cards to see whether the operation has any defects or not. Meanwhile, the receipt operation is 
 also thoroughly tested in this stage of testing. Coming to stage five, we started to test the transfer function of both the 
