@@ -50,15 +50,15 @@ stage and if it matched, we kept it noted for our reference and the new ones wer
 successfully. In this process, we observed that most of the bugs encountered were detected in the initial stage of
 the testing (Exploratory testing) and this tells us that the plan we plotted to find maximum bugs to our capabilities 
 has worked effectively and was able to fetch a good number of bugs when compared with the test cases mentioned. 
-But from an overall perspective, we could find roughly 4 additional bugs when we performed the manual testing and 
+But from an overall perspective, we could find roughly 3 additional bugs when we performed the manual testing and 
 this gave us clear-cut evidence of the exploratory testing plan's success and the number of rigorous tests, we 
 performed using the plan we designed. Overall, this manual testing has provided us with all the necessary bugs 
 which existed out of our site and best of our knowledge. 
 
 Lastly, regression testing seemed to be an extended version of the whole testing process for the previous test 
-casesnoted with version 1.0. In this, the whole idea was to fetch as much as information possible to fetch the bugs 
-in version 1.1 which we found in our previous version. We were able to collect the final bug report for version 1.1 
-as well and the details about the whole bugs in both versions are explained briefly going further. 
+cases noted with version 1.0. In this, the whole idea was to fetch as many as bugs possible in version 1.1 which 
+we found out in our previous version 1.0 along with the few new bugs. We were able to collect the final bug report 
+for version 1.1 as well and the details about the whole bugs in both versions are explained briefly going further. 
 
 # Link of demo video 
 
