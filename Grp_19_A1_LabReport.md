@@ -196,12 +196,12 @@ running the software on the path we decided on, and at last the results were com
 
 In the second phase of the project, we tried running the manual test cases on the software in a group collaborating environment using the
 support document. At a time one person was testing the software while another was pointing out the issues, making the procedure simple 
-and quick. and in here as well we had some brief discussion on finalizing and segregating the bugs we found in the initial stage of testing
+and quick. And in here as well we had some brief discussion on finalizing and segregating the bugs we found in the initial stage of testing
 and compared them with the test case bugs in the second phase. In this process, we had reached a common level of understanding about the 
 software and we had no issue getting down to a common conclusion by this time. Lastly, the regression testing was done together by splitting 
 the 21 bugs we got in the first two stages of testing amongst all the teammates, we were able to record all of the bugs in a workflow. For 
-regression testing, each member was given chance to test all the test cases respectively, and we used the same procedure, performing the 
-testing and changing the log sheet. In the end, the documentation was equally contributed with great information-driven content. 
+regression testing, each member was given chance to test all the test cases respectively and we used the same procedure tp performing the 
+testing and changing the log sheet accordingly. In the end, the documentation was equally contributed with great information-driven content. 
 
 # Comments/feedback on the lab and lab document itself
 
